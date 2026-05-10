@@ -9,7 +9,7 @@
 </html>
 <div style="display: flex; gap: 15px; align-items: flex-start;">
   <figure style="flex: 1; margin: 0;">
-    <img src="1.jpg" alt="图1" style="width: 80%; height: auto;">
+    <img src="1.jpg" alt="图1" style="width: 90%; height: auto;">
     <figcaption style="margin-top: 0px;">恭喜你发现一位纯血小白！</figcaption>
   </figure>
   <figure style="flex: 1; margin: 0;">
