@@ -18,9 +18,9 @@
 </div>
 </html>
 
-
-#里程碑  
-    -2026.5.10 完成第一个个人Github网站quickstart。
-#笔记列表  
-📖 [我的读书笔记](reading.md)
+# 里程碑  
+- 2026.5.10 完成第一个个人 GitHub 网站 quickstart
+    
+# 笔记列表  
+- 📖 [我的读书笔记](reading.md)
 
