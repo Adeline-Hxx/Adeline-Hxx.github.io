@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    Hello，我是小熊熊Adeline！
+    **Hello，我是小熊熊Adeline！**
 </head>
 <body>
    <p>这是我的第一个网站，我将在这里记录学习使用AI工具的历程。</p>
